@@ -1,0 +1,36 @@
+[
+  {
+    "id": "movcc3brwt40w30",
+    "userId": "user_fsd948",
+    "balance": 7000,
+    "monthlyIncome": 10000,
+    "monthlyExpenses": 1000,
+    "savings": 0,
+    "investments": 2000,
+    "budgetGoal": 5000,
+    "transactions": [
+      {
+        "id": "movccll5ms46pj9",
+        "type": "income",
+        "amount": 10000,
+        "description": "Pocket Money",
+        "createdAt": "2026-05-07T10:26:20.873Z"
+      },
+      {
+        "id": "movcdepj72ose65",
+        "type": "investment",
+        "amount": 2000,
+        "description": "NIFTY",
+        "createdAt": "2026-05-07T10:26:58.615Z"
+      },
+      {
+        "id": "movcdtj2dka0aiy",
+        "type": "expense",
+        "amount": 1000,
+        "description": "Shopping",
+        "createdAt": "2026-05-07T10:27:17.822Z"
+      }
+    ],
+    "lastUpdated": "2026-05-07T10:27:17.822Z"
+  }
+]

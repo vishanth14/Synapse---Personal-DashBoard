@@ -1,0 +1,31 @@
+[
+  {
+    "id": "demo123",
+    "name": "Demo User",
+    "email": "demo@example.com",
+    "password": "password",
+    "avatar": "DU",
+    "role": "Premium Member",
+    "theme": "dark",
+    "loggedIn": false,
+    "preferences": {
+      "notifications": true,
+      "emailUpdates": true,
+      "themeMode": "royal-dark",
+      "language": "en",
+      "timezone": "UTC"
+    },
+    "stats": {
+      "tasksCompleted": 18,
+      "skillsTracked": 3,
+      "wellnessScore": 82,
+      "financeScore": 74
+    },
+    "security": {
+      "twoFactorEnabled": false,
+      "lastPasswordChange": "2023-11-01T08:00:00.000Z"
+    },
+    "createdAt": "2023-11-15T10:00:00.000Z",
+    "lastLogin": "2023-11-15T10:00:00.000Z"
+  }
+]
