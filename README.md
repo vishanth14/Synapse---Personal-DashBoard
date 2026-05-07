@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/icon.png" alt="Synapse Logo" width="80" height="80">
-
 # 🧠 Synapse
 ### Personal Management System
 
